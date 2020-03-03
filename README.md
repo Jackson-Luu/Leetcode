@@ -1,2 +1,2 @@
 # Leetcode
-Various Leetcode submissions. 
+Various Leetcode submissions I do in my free time. 
